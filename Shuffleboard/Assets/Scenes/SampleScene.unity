@@ -728,8 +728,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   point: 0
   speed: -89
-  leftspeed: 20
-  rightspeed: -20
+  leftspeed: -20
+  rightspeed: 20
   blueStone: {fileID: 3477118261295884412, guid: 52f93e3c87c015841a12f35d8f07f062, type: 3}
 --- !u!65 &631653847
 BoxCollider:
@@ -1865,7 +1865,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: f2cc9f81f013d8341aedd20266a020db, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
